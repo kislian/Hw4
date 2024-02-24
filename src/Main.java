@@ -64,6 +64,7 @@ public class Main {
         if (ageMan>=7 && ageMan<=17){System.out.print("ему нужно ходить в школу.");}
         if (ageMan>=18 && ageMan<=24){System.out.print("в университет");}
         if (ageMan>24){System.out.println("ему пора ходить на работу.");}
+        System.out.println("******************************** Задание 5******************************");
         System.out.println("Задание 5 вариант 1");
         byte aceChildren=4;
         boolean  bigYes=true;
@@ -88,6 +89,7 @@ public class Main {
         if  ((aceChildren >=5 && aceChildren<14) && (bigYes == true)) {System.out.println("можно кататься" +
                 " на аттракционе в сопровождении взрослого " );}
         if  (aceChildren>=14) {System.out.println("можно кататься на аттракционе без сопровождения взрослого" );}
+        System.out.println("******************************** Задание 6******************************");
         System.out.println("Задание 6 вариант 1");
         byte capManVagon=102;
         byte countSitPlace=60;
